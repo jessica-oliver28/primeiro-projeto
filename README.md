@@ -16,6 +16,7 @@ O objetivo foi reproduzir um card de produto (perfume) fiel ao design original, 
 📁 Estrutura do projeto
 
 primeiro-projeto/
+
 ├── index.html
 
 ├── style.css
