@@ -17,12 +17,19 @@ O objetivo foi reproduzir um card de produto (perfume) fiel ao design original, 
 
 primeiro-projeto/
 ├── index.html
+
 ├── style.css
+
 ├── favicon-32x32.png
+
 ├── image-product-desktop.jpg
+
 ├── images/
+
 │ └── icon-cart.svg
+
 └── README.md
+
 
 👁️ Como visualizar
 
