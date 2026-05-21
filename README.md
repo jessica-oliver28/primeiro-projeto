@@ -3,7 +3,7 @@
 Este é um projeto desenvolvido como parte do desafio **"Product preview card component"** da plataforma [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).  
 O objetivo foi reproduzir um card de produto (perfume) fiel ao design original, utilizando apenas HTML e CSS.
 
-![Preview do projeto](/PrimeiroProjeto/print-projeto.png)
+![Preview do projeto](./print-projeto.png)
 
 
 🛠️ Tecnologias utilizadas
